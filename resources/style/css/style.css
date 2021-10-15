@@ -28,6 +28,22 @@
 body{
     margin: 0 10%;
 }
+h1{
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Architects Daughter';
+}
+h2{
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Noto Sans Mono';
+}
+
+p, li{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Noto Sans Mono';
+}
 
 .container{
     border: 2px solid gray;
